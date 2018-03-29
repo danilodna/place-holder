@@ -1,2 +1,2 @@
 # place-holder
-Some experiments with OpenGL
+Some experiments with modern OpenGL
